@@ -62,7 +62,7 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}"></script>
-    <scrip src="{{ asset('frontend/js/fontawesome/all.min.js') }}"></scrip>
+    <script src="{{ asset('frontend/js/fontawesome/all.min.js') }}"></script>
     <script>
         $(function () {
             $('#session-alert').fadeTo(2000, 500).slideUp(500, function () {
