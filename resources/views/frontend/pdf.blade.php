@@ -6,7 +6,7 @@
 
     <style>
         body {
-            font-family: 'XBRiyaz', sans-serif;
+            font-family: 'almarai', sans-serif;
         }
 
         .invoice-box {
@@ -15,7 +15,7 @@
             padding: 30px;
             font-size: 9px;
             line-height: 24px;
-            font-family: 'XBRiyaz', sans-serif;
+            font-family: 'almarai', sans-serif;
             color: #555;
         }
 
@@ -88,7 +88,7 @@
         /** RTL **/
         .rtl {
             direction: rtl;
-            font-family: 'XBRiyaz', sans-serif;
+            font-family: 'almarai', sans-serif;
         }
 
         .rtl table {

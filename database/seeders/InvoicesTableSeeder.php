@@ -1,5 +1,7 @@
 <?php
 
+namespace Database\Seeders;
+
 use App\Invoice;
 use Carbon\Carbon;
 use Faker\Factory;
